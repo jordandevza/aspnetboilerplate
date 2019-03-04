@@ -208,7 +208,7 @@ using them?
 
 Some benefits of using specifications:
 
--   **Reusabe**: Imagine that you need the PremiumCustomer filter in many
+-   **Reusable**: Imagine that you need the PremiumCustomer filter in many
     places in your code base. If you go with expressions and do not create
     a specification, what happens if you later change the "Premium Customer"
     definition? Say you want to change the minimum balance from $100,000 to
